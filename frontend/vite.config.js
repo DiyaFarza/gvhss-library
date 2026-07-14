@@ -9,9 +9,9 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.ico'],
       manifest: {
-        name: 'GVHSS Library',
-        short_name: 'GVHSS Library',
-        description: 'Library management system for GVHSS Alanallur',
+        name: 'Readora',
+        short_name: 'Readora',
+        description: 'GVHSS Alanallur Library Management System',
         theme_color: '#1e3a8a',
         background_color: '#ffffff',
         display: 'standalone',
